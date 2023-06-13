@@ -5,4 +5,4 @@ this html page is for coming soon
 It can be edited with any notepad or editor.
 Notepad++ is recommended.
 
-![Demo](flybird-game-screen.png) 
+![Demo](comingsoon-screen.png) 
